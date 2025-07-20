@@ -1,4 +1,4 @@
-🧠 EEG Seizure Classification 
+# 🧠 EEG Seizure Classification 
 
 
 📁 Dataset
