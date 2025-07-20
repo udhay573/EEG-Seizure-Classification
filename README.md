@@ -1,4 +1,4 @@
-🧠 EEG Seizure Classification – IE6400 Project 3
+🧠 EEG Seizure Classification 
 
 
 📁 Dataset
